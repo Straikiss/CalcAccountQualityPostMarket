@@ -45,3 +45,4 @@ def main():
     return quality + activity + accepted + marks + ambassador + er - canceled - timeout * 2
 
 print('Оценка: ' + str(main()))
+input('Enter...')
