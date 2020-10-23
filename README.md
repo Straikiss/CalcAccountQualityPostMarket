@@ -1,5 +1,5 @@
 # CalcAccountQualityPostMarket
-##Calculate the quality of bloggers to show best
+## Calculate the quality of bloggers to show best
 
 ### Пример:
 
