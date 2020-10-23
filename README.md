@@ -3,7 +3,7 @@ Calculate the quality of bloggers to show best
 
 Пример:
 
-Качество: 4
+### Качество: 4
 Активность: 3
 Принял: 4
 Отклонил: 2
